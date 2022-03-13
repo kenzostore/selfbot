@@ -12,12 +12,12 @@ return`
 *│▸* Voice : Nina kawai
 *│*
 *│▸* SCRIPT BY
-*│*   Decode Denpa
+*│*   AnjasGanz
 *│*   X-Dev Team
 *│*   Yogi PW
 *│*   Hexagon
 *│*   Dttaz
-*│*
+*│*   NOVII x ANJASS
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
 *│*   Fernazer
@@ -27,7 +27,7 @@ return`
 *│*   X-Dev Team
 *│*   Yudha perdana
 *│*   Xchilds
-*│*
+*│*   AnjasGanz
 *╰────────────[*`
 }
 
